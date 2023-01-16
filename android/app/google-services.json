@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848086220219",
+    "project_id": "tugasuas-6e6d6",
+    "storage_bucket": "tugasuas-6e6d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848086220219:android:0ccb6fadd3cb77abd0589e",
+        "android_client_info": {
+          "package_name": "com.hizbi.tugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848086220219-7mk8al2e185jpvmom5tfcdelkapmpjnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn4meNGwmbK0K1eCoLl3F9hIqKNLHvSqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848086220219-7mk8al2e185jpvmom5tfcdelkapmpjnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
